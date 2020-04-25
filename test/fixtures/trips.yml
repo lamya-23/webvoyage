@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  destination: MyString
+  price: 9.99
+  description: MyText
+  id_agency: 1
+
+two:
+  destination: MyString
+  price: 9.99
+  description: MyText
+  id_agency: 1

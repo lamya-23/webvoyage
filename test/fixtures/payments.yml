@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  payment_status: 1
+  payment_date: 2020-04-25 14:14:03
+  id_trip: 1
+
+two:
+  payment_status: 1
+  payment_date: 2020-04-25 14:14:03
+  id_trip: 1
